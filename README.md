@@ -10,7 +10,7 @@
   This is what got me to where I am right now. <br>
   I love to design, draw, create things that stand out, perfect them, that are something out of the ordinary, and surprise whoever sees it.<br>
   When I discovered the incredible wonders that can be created as a programmer, I understood that I had to lean completely towards programming in order to apply what makes me happy.💕✨<br>
-  My goal is to find new challenges and projects that allow me to apply all my knowledge, continue learning and growing as a programmer.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  My goal is to find new challenges and projects that allow me to apply all my knowledge, continue learning and growing as a programmer.
   <br>
   </samp>
 </p>
@@ -32,4 +32,3 @@
     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=DEB6AB" alt="Gmail">
   </a>
 </div>
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
