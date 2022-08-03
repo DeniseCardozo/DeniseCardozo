@@ -1,34 +1,31 @@
-<h1 align="center">
+<img src="./GithubProfileDenise.png" alt="ImgPortada" />
+<p>
   <br>
   <samp>
-    Hola, soy Denise! 👋😊<br>
-  </samp>
-</h1>
- <p align="center">
- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i> Soy Desarrolladora Web Full Stack, orientada al Front End. 💻🖌️</i></b> 
- </p>
- 
-<p align="center">
+  I consider myself a responsible, empathetic person, with the ability to moderate spaces, work as a team and with good communication. <br>
+  I am very creative. 🖌️<br>
+  This is what got me to where I am right now. <br>
+  I love to design, draw, create things that stand out, perfect them, that are something out of the ordinary, and surprise whoever sees it.<br>
+  When I discovered the incredible wonders that can be created as a programmer, I understood that I had to lean completely towards programming in order to apply what makes me happy.💕<br>
+  My goal is to find new challenges and projects that allow me to apply all my knowledge, continue learning and growing as a programmer. 💻👩‍💻✨<br>
   <br>
-  <samp>
-Me considero una persona responsable, empática, con buena comunicación, con capacidad de moderar espacios y trabajar en equipo. <br>
-Además, algo que me parece importante destacar de mi, es que soy muy creativa. <br>
-Esto último, fue lo que me llevó a donde estoy ahora mismo. <br>
-Me encanta diseñar, dibujar, crear cosas que destaquen, perfeccionarlas, que sean algo fuera de lo normal, y dejen sorprendido a quien lo vean. <br>
-Cuando descubrí las maravillas increibles que se puede crear siendo un programador, entendí que tenía inclinarme del todo a la programación para poder aplicar aquello que me hace feliz. 💕<br>
-Mi objetivo es encontrar nuevos desafios y proyectos que me permitan aplicar todos mi conocimientos, seguir aprendiendo y creciendo como programadora. 👩‍💻✨<br>
-<br>
   </samp>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ <p align="center">
+   <b><i>I am a Full Stack Web Developer, oriented to the Front End.</i></b> 
+   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
+ </p>
+
+
 <div  align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeniseCardozo&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats"> 
  </div>
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
- <b><i> Si te gusta diseñar o dibujar como a mi, podríamos hablar de lo genial que es, mientras codeamos juntos. 😊 <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /><br></i></b> 
+ <b><i> If you like to design or draw like me, we could talk about how cool it is, while we rub elbows together. 😊 <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" /><br></i></b> 
  </p>
 <div  align="center">
   <a href="https://www.linkedin.com/in/denise-carla-maria-cardozo/" target="_blank">
